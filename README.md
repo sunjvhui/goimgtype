@@ -21,3 +21,4 @@ func main() {
   fmt.Println(goimgtype.Get("./test.jpg"))
 }
 ```
+![Alt](https://repobeats.axiom.co/api/embed/0152b70710862de97931ff0934626c22bc99ca8f.svg "Repobeats analytics image")
